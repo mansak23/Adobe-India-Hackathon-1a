@@ -1,4 +1,4 @@
-# Adobe India Hackathon 2025: Connecting the Dots - Round 1A Solution
+# Understand Your Document
 
 ## Project: Intelligent PDF Outline Extractor
 
